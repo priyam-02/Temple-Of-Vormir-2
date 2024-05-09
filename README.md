@@ -42,4 +42,4 @@ Two players are challenged to coordinate their moves, overcome obstacles, and un
 
 ## Demo Video
 
-<kbd>https://github.com/priyam-02/Temple_of_Vormir/assets/108848788/13d9880e-c324-4a88-aae4-9db3aed7b774</kbd>
+https://github.com/priyam-02/Temple_of_Vormir/assets/108848788/13d9880e-c324-4a88-aae4-9db3aed7b774
