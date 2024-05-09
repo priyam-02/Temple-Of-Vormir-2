@@ -21,5 +21,24 @@ Two players are challenged to coordinate their moves, overcome obstacles, and un
 6. **Artistic Style:** The game features a geometric art style with sprites for characters, NPCs, and environments, enhancing visual appeal and gameplay immersion.
 
 
+## Cheatcodes
+
+1. Press **_escape (Esc)_** to go to the start page
+2. Press **_R_** to restart game
+3. Press **_Q_** to quit
+4. Press **_N_** to go to next level
+5. Press **_I_** for Immunity (health does not get reduced)
+6. Press **_G_** to for getting the Golden Statue in Level 3
+
+
+## Instructions
+
+1. Player 1 Movement: W (Up), A (Left), S (Down), D (Right)
+   Player 1 Attack (In Level 3): Left Shift (Lshift)
+
+2. Player 2 Movement: ⬆️ Arrow(Up), ⬅️ Arrow(Left), ⬇️ Arrow(Down), ➡️ Arrow(Right) 
+   Player 2 Attack (In Level 3): Right Shift (Rshift)
+
+
 ## Demo Video
 
