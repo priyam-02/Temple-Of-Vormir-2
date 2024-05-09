@@ -42,3 +42,4 @@ Two players are challenged to coordinate their moves, overcome obstacles, and un
 
 ## Demo Video
 
+<kbd> https://drive.google.com/file/d/1FD0f5_8A7l3cRcpRZqEAbUqVq2eR3yGp/view?usp=sharing </kbd>
